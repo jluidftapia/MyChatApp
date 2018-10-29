@@ -13,23 +13,20 @@ Its main features are:
 
 Connections are established 
 
-#### Disconnection detection
-
-
-#### Room support
-
-
 ## Installation
 
-```bash
-npm install socket.io --save
 ```
+#cd MyChatApp 
+#npm install
 
+#cd examples/chat
+#npm install
+#npm start
+
+```
 ## How to use
 
-The following example attaches socket.io to a plain Node.JS
-HTTP server listening on port `localhost:3000`.
-
+Open a session on your favorit web browser and type `localhost:3000`.
 
 ## License
 
